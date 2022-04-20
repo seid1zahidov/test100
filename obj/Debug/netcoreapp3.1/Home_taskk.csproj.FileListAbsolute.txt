@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Home_taskk\bin\Debug\netcoreapp3.1\Home_taskk.exe
+C:\Users\Windows\source\repos\Home_taskk\bin\Debug\netcoreapp3.1\Home_taskk.deps.json
+C:\Users\Windows\source\repos\Home_taskk\bin\Debug\netcoreapp3.1\Home_taskk.runtimeconfig.json
+C:\Users\Windows\source\repos\Home_taskk\bin\Debug\netcoreapp3.1\Home_taskk.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Home_taskk\bin\Debug\netcoreapp3.1\Home_taskk.dll
+C:\Users\Windows\source\repos\Home_taskk\bin\Debug\netcoreapp3.1\Home_taskk.pdb
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.dll
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.pdb
+C:\Users\Windows\source\repos\Home_taskk\obj\Debug\netcoreapp3.1\Home_taskk.genruntimeconfig.cache
